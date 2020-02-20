@@ -51035,7 +51035,7 @@ B.a2k.prototype={
 $0:function(){F.eM("http://bit.ly/HKGIG")},
 $S:0}
 B.a2l.prototype={
-$0:function(){var t=u.z,s=V.dS(new B.a2h(),new K.cY("/profile",null),t),r=this.a.bF(u.I)
+$0:function(){var t=u.z,s=V.dS(new B.a2h(),new K.cY("/suggestion",null),t),r=this.a.bF(u.I)
 r.d3(0,s,t)},
 $S:0}
 B.a2h.prototype={
