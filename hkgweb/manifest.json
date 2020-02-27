@@ -2,7 +2,7 @@
     "name": "香城Online",
     "short_name": "香城Online",
     "start_url": ".",
-    "display": "minimal-ui",
+    "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
     "description": "香城Online係一本和理非嘅家課冊📝📆日程表📜各種任務🍽黃店資料",

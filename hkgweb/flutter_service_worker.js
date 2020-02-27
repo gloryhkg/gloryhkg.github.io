@@ -34,7 +34,7 @@ const RESOURCES = {
 "/icons/Icon-512.png": "baf9bde96ac2c7ca89aef23ee937ddc2",
 "/icons/favicon-32x32.png": "fd81bf9615552a9e1836d263211c1127",
 "/icons/ms-icon-70x70.png": "26f77a14d55a3ebc6fd2c5bc42d38b63",
-"/manifest.json": "42a6dba6c9960e8f12497de622940676",
+"/manifest.json": "e5d5427e097df3b33f726c8b4ef12cd0",
 "/assets/LICENSE": "285d1b6a9a88200ba5edb8ad3b427a58",
 "/assets/AssetManifest.json": "85e503914997c009a214af81bf83286d",
 "/assets/FontManifest.json": "01700ba55b08a6141f33e168c4a6c22f",
