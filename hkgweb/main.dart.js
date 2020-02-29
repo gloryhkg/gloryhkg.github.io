@@ -52098,7 +52098,7 @@ return P.u(null,s)}})
 return P.v($async$$1,s)},
 $S:7}
 V.a1q.prototype={
-$0:function(){F.eT("http://bit.ly/HkoForm")},
+$0:function(){F.eT("https://www.facebook.com/107881827398146/posts/135750477944614")},
 $S:0}
 V.a1r.prototype={
 $0:function(){F.eT("https://telegra.ph/612-Reminder--%E4%B8%BB%E7%9B%AE%E9%8C%84-12-13")},
