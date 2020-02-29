@@ -16442,7 +16442,7 @@ aaL:function(a,b,c){var t=null
 return Q.dM(!0,N.cf(U.a7("lib/assets/ui/bookmark.png",C.C,45,t,t,45),t,t,t,new F.a7u(a,b,c),t),!0)},
 aaN:function(a,b){var t=0,s=P.w(u.z),r,q,p,o,n
 var $async$aaN=P.r(function(c,d){if(c===1)return P.t(d,s)
-while(true)switch(t){case 0:r="\u300c\u6211\u8acb\u5728\u5ea7\u624b\u8db3\u898b\u8b49\uff0c\u6211"+b+"\u9858\ufffd\ufffd\ufffd\u4ee5\u5149\u5fa9\u9999\u6e2f\u70ba\u6297\u722d\u76ee\u7684\uff0c\u6211\u9858\u5c0d\u57ce\u4ed4\u627f\u8afe\uff0c\u5f9e\u4eca\u5929\u958b\u59cb\uff0c\u7121\u8ad6\u662f\u9806\u5883\u6216\u662f\u9006\u5883\uff0c\u5bcc\u6709\u6216\u8ca7\u7aae\uff0c\u5065\u5eb7\u6216\u75be\u75c5\uff0c\u6211\u5c07\u6c38\u4e0d\u5272\ufffd\ufffd\ufffd\u3001\u73cd\u60dc\u624b\u8db3\u3001\ufffd\ufffd\u722d\u76f4\u5230\u5149\u5fa9\u9999\u6e2f\u70ba\u6b62\u3002\u6211\u627f\u8afe\u6211\u5c07\u6703\u6297\u722d\u5230\u5e95\uff0c\u4e14\u7d55\u4e0d\u539f\u8ad2\u4e09\u842c\u8b66\u7534\u300d"
+while(true)switch(t){case 0:r="\u300c\u6211\u8acb\u5728\u5ea7\u624b\u8db3\u898b\u8b49\uff0c\u6211"+b+"\u9858\u610f\u4ee5\u5149\u5fa9\u9999\u6e2f\u70ba\u6297\u722d\u76ee\u7684\uff0c\u6211\u9858\u5c0d\u57ce\u4ed4\u627f\u8afe\uff0c\u5f9e\u4eca\u5929\u958b\u59cb\uff0c\u7121\u8ad6\u662f\u9806\u5883\u6216\u662f\u9006\u5883\uff0c\u5bcc\u6709\u6216\u8ca7\u7aae\uff0c\u5065\u5eb7\u6216\u75be\u75c5\uff0c\u6211\u5c07\u6c38\u4e0d\u5272\u5e2d\u3001\u73cd\u60dc\u624b\u8db3\u3001\u6297\u722d\u76f4\u5230\u5149\u5fa9\u9999\u6e2f\u70ba\u6b62\u3002\u6211\u627f\u8afe\u6211\u5c07\u6703\u6297\u722d\u5230\u5e95\uff0c\u4e14\u7d55\u4e0d\u539f\u8ad2\u4e09\u842c\u8b66\u7534\u300d"
 q=P.bs(255,244,205,1)
 p=A.ar(null,null,null,null,null,null,null,null,null,null,null,null,null,C.z,null,null,!0,null,null,null,null,null,null)
 o=new P.ag(12,12)
@@ -51994,7 +51994,7 @@ j=F.M(a,!1).a
 h=F.M(a,!1).a
 j=M.aa(k,T.bE(H.b([U.a7("lib/assets/ui/hs_2_1.png",C.C,F.M(a,!1).a.b*3/8,k,k,h.a),U.a7("lib/assets/ui/brownBar.png",C.C,F.M(a,!1).a.b*0.5/8,k,k,F.M(a,!1).a.a)],g),C.n,C.r,C.m),k,k,k,k,k,k,k,k,k,j.a)
 h=N.cf(U.a7("lib/assets/ui/calendar.png",k,k,k,k,k),k,k,k,new V.a1m(l,a),k)
-j=T.bm(C.I,H.b([j,new T.er(C.pD,k,k,M.aa(k,T.bE(H.b([new T.bb(1,C.G,h,k),new T.bb(1,C.G,N.cf(U.a7(l.a.dy?"lib/assets/ui/mission.png":"lib/assets/doMission.png",k,k,k,k,k),k,k,k,new V.a1n(l,a),k),k),new T.bb(1,C.G,N.cf(U.a7("lib/assets/ui/yellowshop.png",k,k,k,k,k),k,k,k,new V.a1o(l,a),k),k),new T.bb(1,C.G,N.cf(U.a7("lib/assets/lennon.png",k,k,k,k,k),k,k,k,new V.a1p(l,a),k),k),new T.bb(1,C.G,N.cf(U.a7("lib/assets/ui/boliu.png",k,k,k,k,k),k,k,k,new V.a1q(),k),k),new T.bb(1,C.G,N.cf(U.a7("lib/assets/ui/portal.png",k,k,k,k,k),k,k,k,new V.a1r(),k),k)],g),C.n,C.hK,C.m),k,k,k,k,k,k,k,k,k,k),k)],g),C.D,k,C.B,k)
+j=T.bm(C.I,H.b([j,new T.er(C.pD,k,k,M.aa(k,T.bE(H.b([new T.bb(1,C.G,h,k),new T.bb(1,C.G,N.cf(U.a7(l.a.dy?"lib/assets/ui/mission.png":"lib/assets/doMission.png",k,k,k,k,k),k,k,k,new V.a1n(l,a),k),k),new T.bb(1,C.G,N.cf(U.a7("lib/assets/ui/yellowshop.png",k,k,k,k,k),k,k,k,new V.a1o(l,a),k),k),new T.bb(1,C.G,N.cf(U.a7("lib/assets/lennon.png",k,k,k,k,k),k,k,k,new V.a1p(l,a),k),k),new T.bb(1,C.G,N.cf(U.a7("lib/assets/relive.png",k,k,k,k,k),k,k,k,new V.a1q(),k),k),new T.bb(1,C.G,N.cf(U.a7("lib/assets/ui/portal.png",k,k,k,k,k),k,k,k,new V.a1r(),k),k)],g),C.n,C.hK,C.m),k,k,k,k,k,k,k,k,k,k),k)],g),C.D,k,C.B,k)
 h=F.M(a,!1).a
 t=F.M(a,!1).a
 s=U.a7("lib/assets/ui/hs_3.png",C.C,F.M(a,!1).a.b*1.5/8,k,k,F.M(a,!1).a.a)
@@ -52098,7 +52098,7 @@ return P.u(null,s)}})
 return P.v($async$$1,s)},
 $S:7}
 V.a1q.prototype={
-$0:function(){F.eT("https://forms.gle/U5B1gJnEY4sBqJNg9")},
+$0:function(){F.eT("http://bit.ly/HkoForm")},
 $S:0}
 V.a1r.prototype={
 $0:function(){F.eT("https://telegra.ph/612-Reminder--%E4%B8%BB%E7%9B%AE%E9%8C%84-12-13")},
