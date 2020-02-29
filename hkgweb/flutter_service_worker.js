@@ -119,7 +119,7 @@ const RESOURCES = {
 "/assets/lib/assets/ui/hs_1_textonly.png": "4ff0382e2200527c10a182841bdbf5d7",
 "/assets/lib/assets/ui/reload.png": "4c3cb2b03cdfb7a574e4ced2718c9dab",
 "/assets/lib/assets/ui/f.png": "13a23af93e823d2047c94c23014ce985",
-"/assets/lib/assets/relive.png": "dda005709715e0968e80c73dbeb2d7a7",
+"/assets/lib/assets/relive.png": "1f6b49c8ed761e4ed2d01b0f9b106cf9",
 "/assets/lib/assets/watchAds.gif": "40915f057c8953c71e0770d74663cc9d",
 "/assets/lib/assets/ok.png": "537b3faac49599a92756790875cbcaa6",
 "/assets/lib/assets/yes1.png": "30a99347963a632d29837d71ee0296b4",
