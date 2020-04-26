@@ -2,7 +2,7 @@
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
   "/index.html": "06331119ec38b65971757db920d8845f",
-"/main.dart.js": "c31e1f00bc31b4b5d22cdc095ed9218d",
+"/main.dart.js": "15acc8f9b923b4dbe73dd353966a6a23",
 "/404.html": "0a27a4163254fc8fce870c8cc3a3f94f",
 "/icons/favicon-16x16.png": "073711e4fe88365ffb105db7aae62bc9",
 "/icons/favicon.ico": "249844fb37366272254f45bdec1eea1e",
@@ -67,7 +67,7 @@ const RESOURCES = {
 "/assets/lib/assets/ui/yellowBar.png": "ce76750fc17d5d37065fab6472d74bce",
 "/assets/lib/assets/ui/yellowshop.png": "608eb0f450127fa6a03226522eb6dc88",
 "/assets/lib/assets/ui/yellowshop/map.png": "abed842f9cda2d65ab5f107b96825a38",
-"/assets/lib/assets/ui/yellowshop/openrice.png": "48077a5f3c4d0f6794db8f6a53773549",
+"/assets/lib/assets/ui/yellowshop/openrice.png": "1812362f0e151ae6576b07606e7f7036",
 "/assets/lib/assets/ui/yellowshop/bookmark.png": "7a56955c9e96486eabfcf77c8ce3f577",
 "/assets/lib/assets/ui/yellowshop/share.png": "09c2983ee3237e66c10ea2d7737c3b5d",
 "/assets/lib/assets/ui/yellowshop/qr.png": "c0009e9d9c3aaf78cc9c06b7fcf0c184",
