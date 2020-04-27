@@ -47285,7 +47285,8 @@ h.a=null
 q=J.ah(b)
 if(J.f(q.h(b,"website"),"")){p=q.h(b,"instagram")
 h.a=p
-if(J.f(p,""))h.a=q.h(b,"facebook")}t=2
+if(J.f(p,""))h.a=q.h(b,"facebook")}else h.a=q.h(b,"website")
+t=2
 return P.Z(r.nI(q.h(b,"shop name")),$async$nt)
 case 2:o=d
 h.b=o
@@ -47527,23 +47528,28 @@ $S:0}
 S.JB.prototype={
 Sp:function(a){return B.a4l(null,new L.x1(this.f,C.pX,null),new S.JH(this,a),null)},
 oi:function(a,b){return this.QG(a,b)},
-QG:function(a,b){var t=0,s=P.P(u.z),r,q,p,o,n,m,l,k
+QG:function(a,b){var t=0,s=P.P(u.z),r,q,p,o,n,m,l,k,j
 var $async$oi=P.L(function(c,d){if(c===1)return P.M(d,s)
-while(true)switch(t){case 0:p=J.ah(b)
+while(true)switch(t){case 0:j={}
+j.a=null
+r=J.ah(b)
+if(J.f(r.h(b,"website"),"")){q=r.h(b,"instagram")
+j.a=q
+if(J.f(q,""))j.a=r.h(b,"facebook")}else j.a=r.h(b,"website")
 t=2
-return P.Z(S.a_G(p.h(b,"shop name")),$async$oi)
-case 2:o=d
-n=P.eX(255,244,205,1)
-m=A.aN(null,null,C.q,null,null,null,null,null,null,null,null,null,null,C.D,null,null,!0,null,null,null,null,null,null)
-l=new P.aH(12,12)
-k=F.HO(new X.bO(new Y.d6(C.bJ,1,C.P),new K.b_(l,l,l,l)),P.cP(0,400),C.eN,n,m,!0,!0)
-m=U.Ne(p.h(b,"logo URL"))
-n=p.h(b,"shop name")
-p=J.bV(J.bV(J.bV(J.bV(p.h(b,"offer 1"),"\n"),p.h(b,"offer 2")),"\n"),p.h(b,"offer 3"))
-l=Y.dg(U.c0(null,null,new L.b5("lib/assets/ui/yellowshop/openrice.png",null,null),null),C.aj,new S.JC(b))
-r=U.c0(null,null,new L.b5("lib/assets/ui/yellowshop/bookmark.png",null,null),null)
-q=o?C.bJ:C.aj
-B.HN(H.b([l,Y.dg(r,q,new S.JD(b,a)),Y.dg(U.c0(null,null,new L.b5("lib/assets/ui/yellowshop/share.png",null,null),null),C.aj,new S.JE(new S.JG(),a)),Y.dg(U.c0(null,null,new L.b5("lib/assets/ui/yellowshop/map.png",null,null),null),C.aj,new S.JF(b))],u.wd),a,p,m,k,n).io(0)
+return P.Z(S.a_G(r.h(b,"shop name")),$async$oi)
+case 2:p=d
+o=P.eX(255,244,205,1)
+n=A.aN(null,null,C.q,null,null,null,null,null,null,null,null,null,null,C.D,null,null,!0,null,null,null,null,null,null)
+m=new P.aH(12,12)
+l=F.HO(new X.bO(new Y.d6(C.bJ,1,C.P),new K.b_(m,m,m,m)),P.cP(0,400),C.eN,o,n,!0,!0)
+n=U.Ne(r.h(b,"logo URL"))
+o=r.h(b,"shop name")
+r=J.bV(J.bV(J.bV(J.bV(r.h(b,"offer 1"),"\n"),r.h(b,"offer 2")),"\n"),r.h(b,"offer 3"))
+j=Y.dg(U.c0(null,null,new L.b5("lib/assets/ui/yellowshop/openrice.png",null,null),null),C.aj,new S.JC(j))
+m=U.c0(null,null,new L.b5("lib/assets/ui/yellowshop/bookmark.png",null,null),null)
+k=p?C.bJ:C.aj
+B.HN(H.b([j,Y.dg(m,k,new S.JD(b,a)),Y.dg(U.c0(null,null,new L.b5("lib/assets/ui/yellowshop/share.png",null,null),null),C.aj,new S.JE(new S.JG(),a)),Y.dg(U.c0(null,null,new L.b5("lib/assets/ui/yellowshop/map.png",null,null),null),C.aj,new S.JF(b))],u.wd),a,r,n,l,o).io(0)
 return P.N(null,s)}})
 return P.O($async$oi,s)},
 St:function(a){var t=this.e.a.a.length,s=$.a7M
@@ -47564,7 +47570,7 @@ while(true)switch(t){case 0:return P.N(null,s)}})
 return P.O($async$$0,s)},
 $S:1}
 S.JC.prototype={
-$0:function(){return F.wK(J.E(this.a,"website"))},
+$0:function(){return F.wK(this.a.a)},
 $S:6}
 S.JD.prototype={
 $0:function(){var t=0,s=P.P(u.P),r=this,q
@@ -47653,7 +47659,8 @@ h.a=null
 q=J.ah(b)
 if(J.f(q.h(b,"website"),"")){p=q.h(b,"instagram")
 h.a=p
-if(J.f(p,""))h.a=q.h(b,"facebook")}t=2
+if(J.f(p,""))h.a=q.h(b,"facebook")}else h.a=q.h(b,"website")
+t=2
 return P.Z(r.og(q.h(b,"shop name")),$async$oh)
 case 2:o=d
 h.b=o
@@ -47785,7 +47792,8 @@ h.a=null
 q=J.ah(b)
 if(J.f(q.h(b,"website"),"")){p=q.h(b,"instagram")
 h.a=p
-if(J.f(p,""))h.a=q.h(b,"facebook")}t=2
+if(J.f(p,""))h.a=q.h(b,"facebook")}else h.a=q.h(b,"website")
+t=2
 return P.Z(r.oj(q.h(b,"shop name")),$async$ok)
 case 2:o=d
 h.b=o
