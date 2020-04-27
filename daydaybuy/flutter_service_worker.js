@@ -2,7 +2,7 @@
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
   "/index.html": "06331119ec38b65971757db920d8845f",
-"/main.dart.js": "14f00b8929c8900aefe44601396d33f0",
+"/main.dart.js": "d1fb01718a04b6e1f56c7f5ca654585a",
 "/404.html": "0a27a4163254fc8fce870c8cc3a3f94f",
 "/icons/favicon-16x16.png": "073711e4fe88365ffb105db7aae62bc9",
 "/icons/favicon.ico": "249844fb37366272254f45bdec1eea1e",
@@ -35,7 +35,7 @@ const RESOURCES = {
 "/icons/ms-icon-70x70.png": "26f77a14d55a3ebc6fd2c5bc42d38b63",
 "/manifest.json": "e5d5427e097df3b33f726c8b4ef12cd0",
 "/assets/LICENSE": "dc003bf3c77338bd6e3612e1ecbdf50a",
-"/assets/AssetManifest.json": "3ff542188176117d11ba2d3be950fa42",
+"/assets/AssetManifest.json": "0dc98dfc209855eec62a1b231ed1993b",
 "/assets/FontManifest.json": "01700ba55b08a6141f33e168c4a6c22f",
 "/assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "115e937bb829a890521f72d2e664b632",
 "/assets/packages/rflutter_alert/assets/images/icon_success.png": "8bb472ce3c765f567aa3f28915c1a8f4",
@@ -68,6 +68,7 @@ const RESOURCES = {
 "/assets/lib/assets/ui/yellowshop.png": "608eb0f450127fa6a03226522eb6dc88",
 "/assets/lib/assets/ui/yellowshop/map.png": "abed842f9cda2d65ab5f107b96825a38",
 "/assets/lib/assets/ui/yellowshop/openrice.png": "1812362f0e151ae6576b07606e7f7036",
+"/assets/lib/assets/ui/yellowshop/openrice%25202.png": "48077a5f3c4d0f6794db8f6a53773549",
 "/assets/lib/assets/ui/yellowshop/bookmark.png": "7a56955c9e96486eabfcf77c8ce3f577",
 "/assets/lib/assets/ui/yellowshop/share.png": "09c2983ee3237e66c10ea2d7737c3b5d",
 "/assets/lib/assets/ui/yellowshop/qr.png": "c0009e9d9c3aaf78cc9c06b7fcf0c184",
