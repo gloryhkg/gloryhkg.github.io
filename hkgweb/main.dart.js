@@ -16373,7 +16373,7 @@ this.c=c},
 dz:function(a){var t=0,s=P.w(u.z),r,q
 var $async$dz=P.r(function(b,c){if(b===1)return P.t(c,s)
 while(true)switch(t){case 0:t=3
-return P.x(G.anZ(C.d.M("https://us-central1-lucid-honor-268510.cloudfunctions.net/firstHttpServer/",a)),$async$dz)
+return P.x(G.anZ(C.d.M("https://us-central1-euphoric-effect-276004.cloudfunctions.net/firstHttpServer/",a)),$async$dz)
 case 3:q=c
 r=C.b1.dJ(0,B.afM(U.aeQ(q.e).c.a.h(0,"charset")).dJ(0,q.x))
 t=1
